@@ -33,10 +33,6 @@ Next.js · TypeScript · Prisma · PostgreSQL · node-telegram-bot-api · Redis 
 
 **[vehicleflow-demo](https://github.com/sclod/vehicleflow-demo)** — трекінг замовлень авто. Публічний сайт, кабінет клієнта з етапами доставки, адмінка з авторизацією, керування лідами. Next.js, Prisma, e2e-тести на Playwright.
 
-Архітектуру й рішення по закритих проєктах спокійно розбираю на співбесіді, просто без коду та даних замовника.
-
-Репозиторії 2021–2022 — ще з часів курсу, лежать як є.
-
 ### Стек
 
 **Backend:** Node.js / TypeScript, Python (FastAPI, Flask), REST API, WebSocket, aiogram / Telegram Bot API
